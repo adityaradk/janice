@@ -2,7 +2,7 @@
 ___
 
 
-Janice is **j**ust **an**other **i**ntelligent **c**lassifier for **e**xoplanets. It was created as a final project for a CMU internship. Created by Aditya, Shrinidhi, and Veeralakshmi.
+Janice is **j**ust **an**other **i**ntelligent **c**lassifier for **e**xoplanets. It was created as a final project for a CMU internship. Created by [Aditya](https://github.com/adityaradk), [Shrinidhi](https://github.com/SrinidhiSunkara2000), and Veeralakshmi.
 
 ## Getting Started
 
